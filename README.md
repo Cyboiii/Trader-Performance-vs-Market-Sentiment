@@ -30,8 +30,8 @@ You can download them from:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/trader-sentiment-analysis.git
-cd trader-sentiment-analysis
+git clone https://github.com/Cyboiii/Trader-Performance-vs-Market-Sentiment.git
+cd Trader-Performance-vs-Market-Sentiment
 ```
 
 ### 2. Install dependencies
